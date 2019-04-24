@@ -33,7 +33,7 @@ O Yarn é um gerenciador de pacotes criado pelo Facebook Team e parece ser mais 
 **Instalação**  
 Faça o donwload do projeto e sigas as instruções abaixo:
 
-1. git clone https://github.com/georgebezerra/vuttarpp.git
+1. git clone https://github.com/georgebezerra/vuttrapp.git
 
 2. cd vuttrapp
 
