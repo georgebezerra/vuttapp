@@ -1,6 +1,6 @@
 # Vuttr Project
 
-Vuttr Project é um aplicativo para executar as operações: listar, cadastrar, apagar e pesquisar.
+Vuttr Project é um aplicativo para executar as operações: listar, cadastrar, deletar e pesquisar.
 
 **Demo**
 
