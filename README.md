@@ -6,7 +6,6 @@ Vuttr Project é um aplicativo para executar as operações: listar, cadastrar, 
 
 ![Vuttr Project](https://github.com/georgebezerra/vuttarpp/blob/master/public/home.png)
 
-
 Este aplicativo foi criado:  
 
 * React
