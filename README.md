@@ -8,11 +8,12 @@ Chiper Project é um aplicativo que simula uma versão simplificada do Twitter. 
 
 Este aplicativo foi criado:  
 
-* React  
-* React-Bootstrap  
-* ReactStrap 
+* React
 * uuid  
-* axios    
+* axios 
+* ReactStrap
+* React Hooks  
+* React-Bootstrap 
 
 Iniciando o projeto
 Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
@@ -31,9 +32,9 @@ O Yarn é um gerenciador de pacotes criado pelo Facebook Team e parece ser mais 
 **Instalação**  
 Faça o donwload do projeto e sigas as instruções abaixo:
 
-1. git clone https://github.com/georgebezerra/chiperproject.git  
+1. git clone https://github.com/georgebezerra/vuttarpp.git
 
-2. cd chiperproject
+2. cd vuttrapp
 
 Instale as dependecias e execute:
 
