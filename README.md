@@ -12,6 +12,7 @@ Este aplicativo foi criado:
 * React-Bootstrap 
 
 **Iniciando o projeto**
+
 Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
 
 **Pre-requisitos**
