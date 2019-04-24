@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+.searchbar-wrapper {
+  position: relative;
+}
+
+.searchbar-i {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 0.5rem;
+}
+
+.searchbar-input {
+  padding-left: 2rem;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.tag {
+  margin: 2.5rem 5rem 0rem 1rem;
+}
+
+.search {
+  margin: 2.1rem 0rem 0rem 2.5rem;
+}
+
+.add {
+  float: right;
+  margin: 1rem 0rem 0rem 18rem;
+}
+
+.addtool {
+  float: right;
+}
+
+.remove {
+  float: right;
+  margin-top: -2.5rem;
+}
+
+.busca {
+  margin: 2rem 0rem 0rem 0.5rem;
+  box-shadow: 0.1rem 0.1rem #000;
+}
+
+.container {
+  margin-top: 5rem;
+  width: 50%;
+}
+
+body {
+  padding: 0;
+  margin: 0 auto;
+  position: relative;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+ul {
+  padding-left: 0;
+  margin: 2rem 0rem 0rem 0rem;
+}
+
+li {
+  margin-top: 1rem;
+  list-style-type: none;
+  text-decoration: none;
+  border: #000 solid 0.1rem;
+  box-shadow: 0.1rem 0.1rem #000;
+}
