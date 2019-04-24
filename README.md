@@ -1,40 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Vuttr Project
 
-## Available Scripts
 
-In the project directory, you can run:
+Este projeto é uma simples implementação que serve para desenvolver o conhecimento adquirido no módulo React e Redux  do curso Fundamentos de React da Udacity, parte do Programa React Nanodegree.  
+  
 
-### `npm start`
+Chiper Project é um aplicativo que simula uma versão simplificada do Twitter. Os usuários poderá criar comentários, editar comentários e curtir.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Este aplicativo foi criado:  
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+* React  
+* React-Bootstrap  
+* ReactStrap 
+* uuid  
+* axios    
 
-### `npm test`
+Iniciando o projeto
+Essas instruções farão com que você tenha uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Pre-requisitos**
 
-### `npm run build`
+O projeto pode ser instalado com npm ou yarn, então escolha uma das opções abaixo caso você não tenha nenhum instalado em seu sistema.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O NPM é distribuído com o Node.js, o que significa que quando você faz o download do Node.js, você obtém automaticamente o npm instalado
+no seu computador: [donwload nodejs](https://nodejs.org/en/download/)
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+O Yarn é um gerenciador de pacotes criado pelo Facebook Team e parece ser mais rápido que o npm em geral:
+[download yarn](https://yarnpkg.com/en/docs/install#debian-stable)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+**Instalação**  
+Faça o donwload do projeto e sigas as instruções abaixo:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. git clone https://github.com/georgebezerra/chiperproject.git  
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. cd chiperproject
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instale as dependecias e execute:
 
+yarn install  
+
+yarn start
+
+or
+
+npm install  
+
+npm run start
+
+Versions
+v1.0
+
+Authors: George Bezerra
+
+https://github.com/georgebezerra
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
