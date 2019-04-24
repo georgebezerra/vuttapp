@@ -1,10 +1,6 @@
 # Vuttr Project
 
-
-Este projeto é uma simples implementação que serve para desenvolver o conhecimento adquirido no módulo React e Redux  do curso Fundamentos de React da Udacity, parte do Programa React Nanodegree.  
-  
-
-Chiper Project é um aplicativo que simula uma versão simplificada do Twitter. Os usuários poderá criar comentários, editar comentários e curtir.
+Vuttr Project é um aplicativo para executar as operações básicas: listar, cadastrar, apagar e pesquisas.
 
 Este aplicativo foi criado:  
 
