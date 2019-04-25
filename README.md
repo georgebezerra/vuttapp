@@ -8,10 +8,9 @@ Vuttr Project é um aplicativo para executar as operações: listar, cadastrar, 
 
 Este aplicativo foi criado:  
 
-* React
 * uuid  
-* axios 
-* ReactStrap
+* axios
+* React
 * React Hooks  
 * React-Bootstrap 
 
